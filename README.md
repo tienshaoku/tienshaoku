@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Shao
-I'm a Master's student of Computer Science in NCKU (about to graduate :mortar_board:).
+I'm a Master's student of Computer Science in NCKU (about to graduate :mortar_board:)
 
-Currently I am interning at Academia Sinica and working on post-quantum cryptography research :fire:.
+Currently I am interning at Academia Sinica and working on post-quantum cryptography research :fire:
 
 
 ## Blockchain
@@ -26,6 +26,7 @@ A beautiful website for my lab :heart_eyes:
 * Status: 95% completed :construction_worker:
 * Repository: [Click Me](https://github.com/ncku-imslab/ncku-imslab.github.io)
 * Built with: React, Tachyons(Functional CSS), Github Pages + Actions
+* Frontend
 
 ---
 
@@ -34,6 +35,7 @@ An image recognition site :heart_eyes:
 * Status: completed :ok_hand:
 * Repository: organizing :construction_worker:
 * Built with: React + Redux, Tachyons, PostgreSQL, Heroku
+* Frontend + Backend
 
 
 ## Get in touch
