@@ -42,7 +42,7 @@ An image recognition site :heart_eyes:
 * Worked in the Embassy of the R.O.C in Panama, which no longer exists ... :cry: **definitely the most unique experience in my life** :sparkles:
 * Went to Machu Picchu :sunrise_over_mountains: swore to revisit there before the apocalypse arrives :stars:
 * Got stabbed in Colombia and came alive :scream: 100% serious no bs :poop:
-* Go: 2 dan :star2: (the board game, not the programming language)
+* Go: 2 dan :star2: (> 10 years ago) (the board game, not the programming language)
 ### Languages
 * Mandarin: Native :100:
 * English: my favorite language :star: why? i :heart:  british accent
