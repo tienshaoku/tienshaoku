@@ -25,7 +25,7 @@ Recently I have been working on Web developing :boom:
 A beautiful website for my lab :heart_eyes:
 * Status: 95% completed :construction_worker:
 * Repository: [Click Me](https://github.com/ncku-imslab/ncku-imslab.github.io)
-* Built with: React, Tachyons(Functional CSS), Github Pages + Actions
+* Built with: **React, Tachyons(Functional CSS), Github Pages + Actions**
 * Frontend
 
 ---
@@ -34,13 +34,14 @@ A beautiful website for my lab :heart_eyes:
 An image recognition site :heart_eyes:
 * Status: completed :ok_hand:
 * Repository: organizing :construction_worker:
-* Built with: React + Redux, Tachyons, PostgreSQL, Heroku
+* Built with: **React + Redux, Tachyons, PostgreSQL, Heroku**
 * Frontend + Backend
 
 ## More about me
 ### Achievements
-* Worked in the Embassy of the R.O.C in Panama, which no longer exists ... :cry: definitely the most precious and unique experience in my life :sparkles:
-* Got stabbed in Colombia and came alive :scream:, 100% serious no bs :poop:
+* Worked in the Embassy of the R.O.C in Panama, which no longer exists ... :cry: **definitely the most unique experience in my life** :sparkles:
+* Went to Machu Picchu :sunrise_over_mountains: swore to revisit there before the apocalypse arrives :stars:
+* Got stabbed in Colombia and came alive :scream: 100% serious no bs :poop:
 * Go: 2 dan :star2: (the board game, not the programming language)
 ### Languages
 * Mandarin: Native :100:
@@ -48,7 +49,7 @@ An image recognition site :heart_eyes:
 * Spanish: used to be good at :sweat_smile:
 * German: novice :innocent:
 ### Interests
-* Both human languages and computer languages :sunglasses:
+* Both human and computer languages :sunglasses:
 * Workout :muscle: (recently a bit lazy :blush:)
 * Cats :cat2:
 * Music, especially rapping :metal: 
