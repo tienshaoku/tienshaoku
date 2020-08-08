@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Shao
 A Master's student of Computer Science in NCKU (about to graduate :mortar_board:)
 
-Currently I am an intern at Academia Sinica and working on post-quantum cryptography research :fire: (in plain English: math :1234: )
+Currently an intern at Academia Sinica and working on post-quantum cryptography research :fire: (in plain English: math :1234: )
 
 
 ## Blockchain
@@ -45,7 +45,7 @@ An image recognition site :heart_eyes:
 * Go: 2 dan :star2: (> 10 years ago) (the board game, not the programming language)
 ### Languages
 * Mandarin: Native :100:
-* English: my favorite language :star: why? i :heart:  british accent
+* English: my favorite language; why? i :heart:  british accent
 * Spanish: used to be good at :sweat_smile:
 * German: novice :innocent:
 ### Interests
