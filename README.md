@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Shao
-A Master's student of Computer Science in NCKU (about to graduate :mortar_board:)
+A Master's student of Computer Science at NCKU (about to graduate :mortar_board:)
+
+Got my Bachlor's degree of Economics at NTU :smile:
 
 Currently an intern at Academia Sinica and working on post-quantum cryptography research :fire: (in plain English: math :1234: )
 
