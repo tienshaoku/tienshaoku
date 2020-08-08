@@ -1,5 +1,6 @@
-## Hi 👋, I'm Shao.
+## Hi 👋, I'm Shao
 I'm a Master's student of Computer Science in NCKU (about to graduate :mortar_board:).
+
 Currently I am interning at Academia Sinica and working on post-quantum cryptography research :fire:.
 
 
