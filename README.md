@@ -37,6 +37,24 @@ An image recognition site :heart_eyes:
 * Built with: React + Redux, Tachyons, PostgreSQL, Heroku
 * Frontend + Backend
 
+## More about me
+### Achievements
+* Worked in the Embassy of the R.O.C in Panama, which no longer exists ... :cry: definitely the most precious and unique experience in my life :sparkles:
+* Got stabbed in Colombia and came alive :scream:, 100% serious no bs :poop:
+* Go: 2 dan :star2: (the board game, not the programming language)
+### Languages
+* Mandarin: Native :100:
+* English: my favorite language :star: why? i :heart:  british accent
+* Spanish: used to be good at :sweat_smile:
+* German: novice :innocent:
+### Interests
+* Both human languages and computer languages :sunglasses:
+* Workout :muscle: (recently a bit lazy :blush:)
+* Cats :cat2:
+* Music, especially rapping :metal: 
+* Travelling :earth_asia:
+* Volunteering :raising_hand:
+
 
 ## Get in touch
 * Email: tienshaoku@gmail.com
