@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Shao
 A Master's student of Computer Science in NCKU (about to graduate :mortar_board:)
 
-Currently I am an intern at Academia Sinica and working on post-quantum cryptography research :fire:
+Currently I am an intern at Academia Sinica and working on post-quantum cryptography research :fire: (in plain English: math :1234: )
 
 
 ## Blockchain
