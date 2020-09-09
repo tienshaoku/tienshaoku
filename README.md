@@ -1,4 +1,3 @@
-# Github Intro
 ## Hi 👋, I'm Shao
 
 - Taiwanese
