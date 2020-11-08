@@ -68,4 +68,4 @@ An image recognition site :heart_eyes:
 
 ## Get in touch
 * Email: tienshaoku@gmail.com
-* [Facebook](https://www.facebook.com/profile.php?id=100002284840963)
+* [LinkedIn](https://www.linkedin.com/in/tienshaoku/)
