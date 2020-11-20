@@ -32,7 +32,7 @@ Check out the following articles where I share blockchain and coding and knowled
 ## Side Projects
 
 ### [IMSLab website](https://www.imslab.org/) 
-A (beautiful) website for my lab :heart_eyes:
+A responsive website (RWD) for my lab :heart_eyes:
 * Type: pure Frontend
 * Status: completed :ok_hand:
 * Repository: [Click Me](https://github.com/ncku-imslab/ncku-imslab.github.io)
