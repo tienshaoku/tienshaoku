@@ -1,15 +1,12 @@
 ## Hi 👋, I'm Shao
 
 - Taiwanese
-- Blockchain developer at [Perpetual Protocol](https://perp.fi/) :computer:
-- Master of Computer Science at NCKU 
-- Bachelor of Economics at NTU
-- Summer intern at [Academia Sinica](https://www.sinica.edu.tw/en) 
-    - Blockchain (2019)
-    - Post-quantum Cryptography (2020)
+- Developer :computer: @ [Perpetual Protocol](https://perp.fi/) 
+- Master of Computer Science
+- Bachelor of Economics
 
 
-## Blockchain
+## Articles
 Check out the following articles where I share blockchain and coding and knowledge:
 
 * [Uniswap v2 實作 : 從創建交易對到Ether 換 Dai 投入 Compound](https://medium.com/taipei-ethereum-meetup/uniswap-v2-implementation-and-combination-with-compound-262ff338efa)
@@ -34,37 +31,19 @@ Check out the following articles where I share blockchain and coding and knowled
 ### [IMSLab website](https://www.imslab.org/) 
 A responsive website (RWD) for my lab :heart_eyes:
 * Type: pure Frontend
-* Status: completed :ok_hand:
 * Repository: [Click Me](https://github.com/ncku-imslab/ncku-imslab.github.io)
 * Built with: **React, Tachyons(Functional CSS), Github Pages + Actions(CI/CD)**
-
-
----
 
 ### [Image Recognition Site](https://image-recognition-shao.herokuapp.com/) 
 An image recognition site :heart_eyes:
 * Type: Frontend + Backend
-* Status: completed :ok_hand:
-* Repository: organizing :construction_worker:
+* Repository: no plan for organization :construction_worker:
 * Built with: **React + Redux, Tachyons, PostgreSQL, Heroku**
 
-## More about me
-### Achievements
-* Worked in the Embassy of the R.O.C (Taiwan) in Panama, which no longer exists ... :cry: **definitely the most unique experience in my life** :sparkles:
+## Achievements
+* Worked in the Embassy of the R.O.C (Taiwan) in Panama, which no longer exists ... :cry: 
 * Visited the most astonishing place on Earth: Machu Picchu :sunrise_over_mountains: 
-* Got stabbed in Colombia and came back alive :scream: 100% serious no bs :poop:
-### Languages
-* Mandarin: Native :100:
-* English: i :heart:  British accent
-* Spanish: used to be good at :sweat_smile:
-* German: novice :innocent:
-### Interests
-* Both human and computer languages :sunglasses:
-* Cats :cat2:
-* Workout :muscle: (recently a bit lazy :blush:)
-* Music, especially rapping :metal: 
-* Travelling :earth_asia:
-* Volunteering :raising_hand:
+* Got stabbed in Colombia and came back alive (no bs) :scream: 
 
 ## Get in touch
 * Email: tienshaoku@gmail.com
