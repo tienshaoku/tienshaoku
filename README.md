@@ -38,16 +38,18 @@
 ### [Perpetual Protocol](https://perp.com/) 
 I mostly work on smart contract development, testing, deployment and sometimes frontend of our [exchange site](https://app.perp.com/)
 
-- Repository
-    1. Perpetual Protocol V2
-    2. Perpetual Protocol V2 Oracle
-    3. Perpetual Protocol V1
+- Repositories
+    1. [Perpetual Protocol V2 (Curie)](https://github.com/perpetual-protocol/perp-curie-contract)
+    2. [Perpetual Protocol V2 Oracle](https://github.com/perpetual-protocol/perp-oracle-contract)
+    3. [Perpetual Protocol v2 Frontend sdk](https://github.com/perpetual-protocol/sdk-curie)
+    4. [Perpetual Protocol v2 Docs](https://github.com/perpetual-protocol/perp-docs)
+    5. [Perpetual Protocol V1](https://github.com/perpetual-protocol/perpetual-protocol)
 - Built with
-    1. Uniswap V3
-    2. Openzeppelin
-    3. Foundry
-    4. Hardhat
-    5. Chainlink
+    1. [Uniswap V3](https://www.npmjs.com/package/@uniswap/v3-core)
+    2. [Openzeppelin](https://www.npmjs.com/package/@openzeppelin/contracts)
+    3. [Foundry](https://github.com/foundry-rs/foundry)
+    4. [Chainlink](https://www.npmjs.com/package/@chainlink/contracts)
+    5. [Hardhat](https://www.npmjs.com/package/hardhat)
 
 ### [IMSLab website](https://www.imslab.org/) 
 A responsive website (RWD) for my lab during the master program
