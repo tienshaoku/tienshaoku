@@ -20,6 +20,7 @@
 - [Uniswap 解析：恆定乘積做市商模型 Constant Product Market Maker Model 的 Vyper 實作](https://medium.com/taipei-ethereum-meetup/uniswap-explanation-constant-product-market-maker-model-in-vyper-dff80b8467a1)
 
 ### General DeFi
+- [EIP-4626 Inflation/ Sandwich Attack Deep Dive And How to Solve It](https://medium.com/@tienshaoku/eip-4626-inflation-sandwich-attack-deep-dive-and-how-to-solve-it-9e3e320cc3f1)
 - [Charm’s Alpha Vault, the Minimalist Uniswap v3 LP Strategy](https://medium.com/@tienshaoku/charms-alpha-vault-the-minimalist-uniswap-v3-lp-strategy-23a059c924b)
 - [A Failed Improvement Proposal on UXD Protocol](https://medium.com/@tienshaoku/an-improvement-scheme-on-uxd-protocol-84f7e7799740)
 - [Parsec.finance, the One-stop Customizable DeFi Analytics](https://medium.com/@tienshaoku/parsec-finance-the-one-stop-customizable-defi-analytics-e03f29a30ac0)
