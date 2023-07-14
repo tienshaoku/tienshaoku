@@ -7,6 +7,10 @@
 
 ## Article
 
+### Thoughts
+
+-   [A Failed Improvement Proposal on UXD Protocol](https://medium.com/@tienshaoku/an-improvement-scheme-on-uxd-protocol-84f7e7799740)
+
 ### Perpetual Protocol
 
 -   [How Block-based Funding Payments are Implemented On Perp v2](https://medium.com/perpetual-protocol/how-block-based-funding-payment-is-implemented-on-perp-v2-20cfd5057384)
@@ -26,7 +30,6 @@
 
 -   [EIP-4626 Inflation/ Sandwich Attack Deep Dive And How to Solve It](https://medium.com/@tienshaoku/eip-4626-inflation-sandwich-attack-deep-dive-and-how-to-solve-it-9e3e320cc3f1)
 -   [Charm’s Alpha Vault, the Minimalist Uniswap v3 LP Strategy](https://medium.com/@tienshaoku/charms-alpha-vault-the-minimalist-uniswap-v3-lp-strategy-23a059c924b)
--   [A Failed Improvement Proposal on UXD Protocol](https://medium.com/@tienshaoku/an-improvement-scheme-on-uxd-protocol-84f7e7799740)
 -   [Parsec.finance, the One-stop Customizable DeFi Analytics](https://medium.com/@tienshaoku/parsec-finance-the-one-stop-customizable-defi-analytics-e03f29a30ac0)
 
 ### Ethereum Coding
