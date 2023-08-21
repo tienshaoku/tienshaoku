@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Shao
 
 -   Taiwanese
--   dev @ [Perpetual Protocol](https://perp.com/) since Sep 2020
+-   dev @ [Perpetual Protocol](https://perp.com/), Sep 2020 ~ Aug 2023
 -   Master of Computer Science
 -   Bachelor of Economics
 
@@ -31,6 +31,10 @@
 -   [EIP-4626 Inflation/ Sandwich Attack Deep Dive And How to Solve It](https://medium.com/@tienshaoku/eip-4626-inflation-sandwich-attack-deep-dive-and-how-to-solve-it-9e3e320cc3f1)
 -   [Charm’s Alpha Vault, the Minimalist Uniswap v3 LP Strategy](https://medium.com/@tienshaoku/charms-alpha-vault-the-minimalist-uniswap-v3-lp-strategy-23a059c924b)
 -   [Parsec.finance, the One-stop Customizable DeFi Analytics](https://medium.com/@tienshaoku/parsec-finance-the-one-stop-customizable-defi-analytics-e03f29a30ac0)
+
+### Team Culture
+
+-   [Hosting A Deeper-talking On-site Event with A Remote-first Team](https://tienshaoku.medium.com/hosting-a-deeper-talking-on-site-event-with-a-remote-first-team-b288e1b30d63)
 
 ### Ethereum Coding
 
