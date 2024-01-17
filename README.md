@@ -44,6 +44,8 @@
 
 ### Book Review
 
+-   [2023 書單：軟體工作、小說、社會議題、身心健康、傳記](https://tienshaoku.medium.com/2023-%E6%9B%B8%E5%96%AE-%E8%BB%9F%E9%AB%94%E5%B7%A5%E4%BD%9C-%E5%B0%8F%E8%AA%AA-%E7%A4%BE%E6%9C%83%E8%AD%B0%E9%A1%8C-%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7-%E5%82%B3%E8%A8%98-b34a9ddc4201)
+-   [失業無所事事三個月的書單：矽谷文化、傳記、社會文化、漫畫](https://tienshaoku.medium.com/%E5%A4%B1%E6%A5%AD%E7%84%A1%E6%89%80%E4%BA%8B%E4%BA%8B%E4%B8%89%E5%80%8B%E6%9C%88%E7%9A%84%E9%96%B1%E8%AE%80%E6%B8%85%E5%96%AE-%E7%9F%BD%E8%B0%B7%E6%96%87%E5%8C%96-%E5%82%B3%E8%A8%98-%E7%A4%BE%E6%9C%83%E6%96%87%E5%8C%96-%E6%BC%AB%E7%95%AB-72b38a36c6a2)
 -   [2022 下半年書單： 科技、週末休息、人物傳記、多元性別與角色](https://medium.com/@tienshaoku/2022-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-285a55c3387b)
 -   [2022 上半年書單：複習 2008 金融海嘯、女性故事、自我成長](https://medium.com/@tienshaoku/2022-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-c65e2546be46)
 -   [2021 書單：時間的複利效應、有意識的習慣改變、比特幣與區塊鏈](https://medium.com/@tienshaoku/2021-%E6%9B%B8%E5%96%AE-28fc9e251848)
