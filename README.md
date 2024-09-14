@@ -7,9 +7,10 @@
 
 ## Article
 
-### Cultural Talks
+### Cultural Talk
 
 - [Let’s Talk About Overworking and Burnout in Crypto](https://medium.com/taipei-ethereum-meetup/lets-talk-about-overworking-and-burnout-in-crypto-d995ceb96957)
+- [Sharing 2 Less Common PM Approaches I Had in a Web3 Startup](https://tienshaoku.medium.com/sharing-2-less-common-pm-approaches-i-had-in-a-web3-startup-c65fa245366b)
 - [Hosting A Deeper-talking On-site Event with A Remote-first Team](https://tienshaoku.medium.com/hosting-a-deeper-talking-on-site-event-with-a-remote-first-team-b288e1b30d63)
 
 ### Uniswap
@@ -48,6 +49,11 @@
 - [2022 下半年書單： 科技、週末休息、人物傳記、多元性別與角色](https://medium.com/@tienshaoku/2022-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-285a55c3387b)
 - [2022 上半年書單：複習 2008 金融海嘯、女性故事、自我成長](https://medium.com/@tienshaoku/2022-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-c65e2546be46)
 - [2021 書單：時間的複利效應、有意識的習慣改變、比特幣與區塊鏈](https://medium.com/@tienshaoku/2021-%E6%9B%B8%E5%96%AE-28fc9e251848)
+
+### Veganism
+
+- [一個不完美 Vegan (+Freegan) 的飲食與生活哲學／歪理分享](https://tienshaoku.medium.com/%E4%B8%80%E5%80%8B%E4%B8%8D%E5%AE%8C%E7%BE%8E-vegan-freegan-%E7%9A%84%E9%A3%B2%E9%A3%9F%E8%88%87%E7%94%9F%E6%B4%BB%E5%93%B2%E5%AD%B8-%E6%AD%AA%E7%90%86%E5%88%86%E4%BA%AB-f3fdd30bd02b)
+- [關於吃素的健康疑慮淺談，與這問題對素食者來說真的重要嗎？](https://tienshaoku.medium.com/%E9%97%9C%E6%96%BC%E5%90%83%E7%B4%A0%E7%9A%84%E5%81%A5%E5%BA%B7%E7%96%91%E6%85%AE%E6%B7%BA%E8%AB%87-%E8%88%87%E9%80%99%E5%95%8F%E9%A1%8C%E5%B0%8D-vegan-%E4%BE%86%E8%AA%AA%E7%9C%9F%E7%9A%84%E9%87%8D%E8%A6%81%E5%97%8E-78f75dbbb16b)
 
 ## Open Source Contribution
 
