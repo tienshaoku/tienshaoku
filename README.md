@@ -10,7 +10,7 @@
 ### Cultural Talk
 
 - [Let’s Talk About Overworking and Burnout in Crypto](https://medium.com/taipei-ethereum-meetup/lets-talk-about-overworking-and-burnout-in-crypto-d995ceb96957)
-- [Sharing 2 Less Common PM Approaches I Had in a Web3 Startup](https://tienshaoku.medium.com/sharing-2-less-common-pm-approaches-i-had-in-a-web3-startup-c65fa245366b)
+- [Sharing 2 Uncommon PM Approaches I Experienced in a Web3 Startup](https://tienshaoku.medium.com/sharing-2-less-common-pm-approaches-i-had-in-a-web3-startup-c65fa245366b)
 - [Hosting A Deeper-talking On-site Event with A Remote-first Team](https://tienshaoku.medium.com/hosting-a-deeper-talking-on-site-event-with-a-remote-first-team-b288e1b30d63)
 
 ### Uniswap
