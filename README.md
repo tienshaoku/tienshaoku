@@ -5,13 +5,25 @@
 - Master of Computer Science
 - Bachelor of Economics
 
-## Article
+## Articles
 
 ### Cultural Talk
 
 - [Let’s Talk About Overworking and Burnout in Crypto](https://medium.com/taipei-ethereum-meetup/lets-talk-about-overworking-and-burnout-in-crypto-d995ceb96957)
 - [Sharing 2 Uncommon PM Approaches I Experienced in a Web3 Startup](https://tienshaoku.medium.com/sharing-2-less-common-pm-approaches-i-had-in-a-web3-startup-c65fa245366b)
 - [Hosting A Deeper-talking On-site Event with A Remote-first Team](https://tienshaoku.medium.com/hosting-a-deeper-talking-on-site-event-with-a-remote-first-team-b288e1b30d63)
+
+### Perpetual Protocol
+
+- [How Block-based Funding Payments are Implemented On Perp v2](https://medium.com/perpetual-protocol/how-block-based-funding-payment-is-implemented-on-perp-v2-20cfd5057384)
+- [Block-based Funding Payment On Perp v2](https://medium.com/perpetual-protocol/block-based-funding-payment-on-perp-v2-35527094635e)
+- [Perp v2 Liquidation Mechanism Update](https://medium.com/perpetual-protocol/perp-v2-liquidation-mechanism-update-7cb960524f96)
+- [Analysing merging the funding rate of a perpetual contract into x\*y = k](https://medium.com/@tienshaoku/note-1-defi-analysing-merging-the-funding-rate-of-a-perpetual-contract-into-x-y-k-90bdd301cfbf)
+
+### CowSwap
+
+- [Understanding CoW AMM: A Zero-Swap-Fee, MEV-Mitigating Liquidity Source for CowSwap](https://medium.com/taipei-ethereum-meetup/understanding-cow-amm-a-zero-swap-fee-mev-mitigating-liquidity-source-for-cowswap-25f8cb1e8b78)
+- [ELI5: What Is FM-AMM, The Theory Behind CoW AMM, and How Is It MEV-Resistant?](https://medium.com/taipei-ethereum-meetup/eli5-what-is-fm-amm-the-theory-behind-cow-amm-and-how-is-it-mev-resistant-53d1960324c0)
 
 ### Uniswap
 
@@ -20,13 +32,6 @@
 - [A Guide on Uniswap v3 TWAP Oracle](https://medium.com/@tienshaoku/a-guide-on-uniswap-v3-twap-oracle-2aa74a4a97c5)
 - [Uniswap v2 實作 : 從創建交易對到 Ether 換 Dai 投入 Compound](https://medium.com/taipei-ethereum-meetup/uniswap-v2-implementation-and-combination-with-compound-262ff338efa)
 - [Uniswap 解析：恆定乘積做市商模型 Constant Product Market Maker Model 的 Vyper 實作](https://medium.com/taipei-ethereum-meetup/uniswap-explanation-constant-product-market-maker-model-in-vyper-dff80b8467a1)
-
-### Perpetual Protocol
-
-- [How Block-based Funding Payments are Implemented On Perp v2](https://medium.com/perpetual-protocol/how-block-based-funding-payment-is-implemented-on-perp-v2-20cfd5057384)
-- [Block-based Funding Payment On Perp v2](https://medium.com/perpetual-protocol/block-based-funding-payment-on-perp-v2-35527094635e)
-- [Perp v2 Liquidation Mechanism Update](https://medium.com/perpetual-protocol/perp-v2-liquidation-mechanism-update-7cb960524f96)
-- [Analysing merging the funding rate of a perpetual contract into x\*y = k](https://medium.com/@tienshaoku/note-1-defi-analysing-merging-the-funding-rate-of-a-perpetual-contract-into-x-y-k-90bdd301cfbf)
 
 ### General DeFi
 
