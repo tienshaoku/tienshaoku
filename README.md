@@ -49,6 +49,7 @@
 
 ### Book Review
 
+- [2024 下半年書單：社會議題、商學、人類情愛、健康](https://tienshaoku.medium.com/2024-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-%E7%A4%BE%E6%9C%83%E8%AD%B0%E9%A1%8C-%E5%95%86%E5%AD%B8-%E4%BA%BA%E9%A1%9E%E6%83%85%E6%84%9B-%E5%81%A5%E5%BA%B7-5d8299ff7067)
 - [2024 上半年書單：藝術、創意與創業、社會文化、小說、生產力、大自然](https://medium.com/@tienshaoku/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-%E8%97%9D%E8%A1%93-%E5%89%B5%E6%84%8F%E8%88%87%E5%89%B5%E6%A5%AD-%E7%A4%BE%E6%9C%83%E6%96%87%E5%8C%96-%E5%B0%8F%E8%AA%AA-%E7%94%9F%E7%94%A2%E5%8A%9B-%E5%A4%A7%E8%87%AA%E7%84%B6-7f84ca2ae3c2)
 - [2023 書單：軟體工作、小說、社會議題、身心健康、傳記](https://tienshaoku.medium.com/2023-%E6%9B%B8%E5%96%AE-%E8%BB%9F%E9%AB%94%E5%B7%A5%E4%BD%9C-%E5%B0%8F%E8%AA%AA-%E7%A4%BE%E6%9C%83%E8%AD%B0%E9%A1%8C-%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7-%E5%82%B3%E8%A8%98-b34a9ddc4201)
 - [失業無所事事三個月的書單：矽谷文化、傳記、社會文化、漫畫](https://tienshaoku.medium.com/%E5%A4%B1%E6%A5%AD%E7%84%A1%E6%89%80%E4%BA%8B%E4%BA%8B%E4%B8%89%E5%80%8B%E6%9C%88%E7%9A%84%E9%96%B1%E8%AE%80%E6%B8%85%E5%96%AE-%E7%9F%BD%E8%B0%B7%E6%96%87%E5%8C%96-%E5%82%B3%E8%A8%98-%E7%A4%BE%E6%9C%83%E6%96%87%E5%8C%96-%E6%BC%AB%E7%95%AB-72b38a36c6a2)
@@ -79,6 +80,13 @@ I mostly worked on smart contract development and testing, deployment, and somet
   3. [Foundry](https://github.com/foundry-rs/foundry)
   4. [Chainlink](https://www.npmjs.com/package/@chainlink/contracts)
   5. [Hardhat](https://www.npmjs.com/package/hardhat)
+
+### [ETH Taipei website](https://ethtaipei.org/)
+
+The website of ETH Taipei, an annual Ethereum Dev-focused Conference and a local ETH community.
+
+- Repository: [Click Me](https://github.com/ETHTaipei/ETH-Taipei-Website)
+- Built with: Next.js and Typescript
 
 ### [IMSLab website](https://www.imslab.org/)
 
