@@ -1,10 +1,3 @@
-<style>
-.toggle-title {
-    font-size: 1.25em;
-    font-weight: bold;
-}
-</style>
-
 # Hi 👋, I'm Shao (or TSK)
 
 - Taiwanese
@@ -13,12 +6,10 @@
 - Master of Computer Science
 - Bachelor of Economics
 
----
-
 ## Articles
 
 <details open>
-<summary class="toggle-title">
+<summary>
 Cultural Talk
 </summary>
 
@@ -28,7 +19,7 @@ Cultural Talk
 </details>
 
 <details open>
-<summary class="toggle-title">
+<summary>
 CowSwap
 </summary>
 
@@ -37,7 +28,7 @@ CowSwap
 </details>
 
 <details>
-<summary class="toggle-title">
+<summary>
 Perpetual Protocol
 </summary>
 
@@ -48,7 +39,7 @@ Perpetual Protocol
 </details>
 
 <details>
-<summary class="toggle-title">
+<summary>
 Uniswap
 </summary>
 
@@ -60,7 +51,7 @@ Uniswap
 </details>
 
 <details>
-<summary class="toggle-title">
+<summary>
 General DeFi
 </summary>
 
@@ -72,7 +63,7 @@ General DeFi
 </details>
 
 <details>
-<summary class="toggle-title">
+<summary>
 Ethereum Coding
 </summary>
 
@@ -82,7 +73,7 @@ Ethereum Coding
 </details>
 
 <details>
-<summary class="toggle-title">
+<summary>
 Book Review
 </summary>
 
@@ -96,7 +87,7 @@ Book Review
 </details>
 
 <details>
-<summary class="toggle-title">
+<summary>
 Veganism
 </summary>
 
@@ -104,12 +95,10 @@ Veganism
 - [關於吃素的健康疑慮淺談，與這問題對素食者來說真的重要嗎？](https://tienshaoku.medium.com/%E9%97%9C%E6%96%BC%E5%90%83%E7%B4%A0%E7%9A%84%E5%81%A5%E5%BA%B7%E7%96%91%E6%85%AE%E6%B7%BA%E8%AB%87-%E8%88%87%E9%80%99%E5%95%8F%E9%A1%8C%E5%B0%8D-vegan-%E4%BE%86%E8%AA%AA%E7%9C%9F%E7%9A%84%E9%87%8D%E8%A6%81%E5%97%8E-78f75dbbb16b)
 </details>
 
----
-
 ## Open Source Contribution
 
 <details open>
-<summary class="toggle-title">
+<summary>
 <a href="https://perp.com/">Perpetual Protocol</a>
 </summary>
 
@@ -121,16 +110,11 @@ I mostly worked on smart contract development, testing, deployment, and sometime
   3. [Perpetual Protocol v2 Frontend sdk](https://github.com/perpetual-protocol/sdk-curie)
   4. [Perpetual Protocol v2 Docs](https://github.com/perpetual-protocol/perp-docs)
   5. [Perpetual Protocol V1](https://github.com/perpetual-protocol/perpetual-protocol)
-- Built with
-  1. [Uniswap V3](https://www.npmjs.com/package/@uniswap/v3-core)
-  2. [Openzeppelin](https://www.npmjs.com/package/@openzeppelin/contracts)
-  3. [Foundry](https://github.com/foundry-rs/foundry)
-  4. [Chainlink](https://www.npmjs.com/package/@chainlink/contracts)
-  5. [Hardhat](https://www.npmjs.com/package/hardhat)
+- Built with: Uniswap V3, Openzeppelin, Chainlink, Foundry, and Hardhat
   </details>
 
 <details>
-<summary class="toggle-title">
+<summary>
 <a href="https://ethtaipei.org/">ETH Taipei website</a>
 </summary>
 
@@ -141,7 +125,7 @@ The website of ETH Taipei, an annual Ethereum Dev-focused Conference and a local
 </details>
 
 <details>
-<summary class="toggle-title">
+<summary>
 <a href="https://www.imslab.org/">IMSLab website</a>
 </summary>
 
@@ -151,15 +135,11 @@ A responsive website (RWD) for my lab during the master program
 - Built with: React, Tachyons(Functional CSS), and Github Actions
 </details>
 
----
-
 ## Anecdote
 
 - Half a year after hanging out in the Embassy of the R.O.C (Taiwan) in Panama, the diplomatic relationship between R.O.C and Panama ended; coincidence? 🤔
 - Got stabbed in Colombia and came back alive 🔪🩸
 - Turned vegan the next day after watching [Cowspiracy](https://www.cowspiracy.com/) in Dec 2021 🌱
-
----
 
 ## Get in touch
 
