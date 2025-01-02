@@ -1,53 +1,90 @@
-## Hi 👋, I'm Shao (or TSK)
+<style>
+.toggle-title {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+</style>
+
+# Hi 👋, I'm Shao (or TSK)
 
 - Taiwanese
-- dev @ [Perpetual Protocol](https://perp.com/), Sep 2020 ~ Aug 2023
+- Contributor at [ETHTaipei](https://ethtaipei.org/)
+- Solidity Developer @ [Perpetual Protocol](https://perp.com/), Sep 2020 ~ Aug 2023
 - Master of Computer Science
 - Bachelor of Economics
 
+---
+
 ## Articles
 
-### Cultural Talk
+<details open>
+<summary class="toggle-title">
+Cultural Talk
+</summary>
 
 - [Let’s Talk About Overworking and Burnout in Crypto](https://medium.com/taipei-ethereum-meetup/lets-talk-about-overworking-and-burnout-in-crypto-d995ceb96957)
 - [Sharing 2 Uncommon PM Approaches I Experienced in a Web3 Startup](https://tienshaoku.medium.com/sharing-2-less-common-pm-approaches-i-had-in-a-web3-startup-c65fa245366b)
 - [Hosting A Deeper-talking On-site Event with A Remote-first Team](https://tienshaoku.medium.com/hosting-a-deeper-talking-on-site-event-with-a-remote-first-team-b288e1b30d63)
+</details>
 
-### Perpetual Protocol
+<details open>
+<summary class="toggle-title">
+CowSwap
+</summary>
+
+- [Understanding CoW AMM: A Zero-Swap-Fee, MEV-Mitigating Liquidity Source for CowSwap](https://medium.com/taipei-ethereum-meetup/understanding-cow-amm-a-zero-swap-fee-mev-mitigating-liquidity-source-for-cowswap-25f8cb1e8b78)
+- [ELI5: What Is FM-AMM, The Theory Behind CoW AMM, and How Is It MEV-Resistant?](https://medium.com/taipei-ethereum-meetup/eli5-what-is-fm-amm-the-theory-behind-cow-amm-and-how-is-it-mev-resistant-53d1960324c0)
+</details>
+
+<details>
+<summary class="toggle-title">
+Perpetual Protocol
+</summary>
 
 - [How Block-based Funding Payments are Implemented On Perp v2](https://medium.com/perpetual-protocol/how-block-based-funding-payment-is-implemented-on-perp-v2-20cfd5057384)
 - [Block-based Funding Payment On Perp v2](https://medium.com/perpetual-protocol/block-based-funding-payment-on-perp-v2-35527094635e)
 - [Perp v2 Liquidation Mechanism Update](https://medium.com/perpetual-protocol/perp-v2-liquidation-mechanism-update-7cb960524f96)
 - [Analysing merging the funding rate of a perpetual contract into x\*y = k](https://medium.com/@tienshaoku/note-1-defi-analysing-merging-the-funding-rate-of-a-perpetual-contract-into-x-y-k-90bdd301cfbf)
+</details>
 
-### CowSwap
-
-- [Understanding CoW AMM: A Zero-Swap-Fee, MEV-Mitigating Liquidity Source for CowSwap](https://medium.com/taipei-ethereum-meetup/understanding-cow-amm-a-zero-swap-fee-mev-mitigating-liquidity-source-for-cowswap-25f8cb1e8b78)
-- [ELI5: What Is FM-AMM, The Theory Behind CoW AMM, and How Is It MEV-Resistant?](https://medium.com/taipei-ethereum-meetup/eli5-what-is-fm-amm-the-theory-behind-cow-amm-and-how-is-it-mev-resistant-53d1960324c0)
-
-### Uniswap
+<details>
+<summary class="toggle-title">
+Uniswap
+</summary>
 
 - [Uniswap V3 Features Explained in Depth](https://medium.com/taipei-ethereum-meetup/uniswap-v3-features-explained-in-depth-178cfe45f223)
 - [Uniswap v3 Maths Explained: Capital Efficiency](https://medium.com/@tienshaoku/uniswap-v3-maths-explained-capital-efficiency-86257c44405a)
 - [A Guide on Uniswap v3 TWAP Oracle](https://medium.com/@tienshaoku/a-guide-on-uniswap-v3-twap-oracle-2aa74a4a97c5)
 - [Uniswap v2 實作 : 從創建交易對到 Ether 換 Dai 投入 Compound](https://medium.com/taipei-ethereum-meetup/uniswap-v2-implementation-and-combination-with-compound-262ff338efa)
 - [Uniswap 解析：恆定乘積做市商模型 Constant Product Market Maker Model 的 Vyper 實作](https://medium.com/taipei-ethereum-meetup/uniswap-explanation-constant-product-market-maker-model-in-vyper-dff80b8467a1)
+</details>
 
-### General DeFi
+<details>
+<summary class="toggle-title">
+General DeFi
+</summary>
 
 - [Clarifying ERC-1271: Smart Contract Signature Verification](https://medium.com/taipei-ethereum-meetup/clarifications-on-erc-1271-smart-contract-signature-verification-and-signing-cd5c2fb7ac1b)
 - [EIP-4626 Inflation/ Sandwich Attack Deep Dive And How to Solve It](https://medium.com/@tienshaoku/eip-4626-inflation-sandwich-attack-deep-dive-and-how-to-solve-it-9e3e320cc3f1)
 - [Charm’s Alpha Vault, the Minimalist Uniswap v3 LP Strategy](https://medium.com/@tienshaoku/charms-alpha-vault-the-minimalist-uniswap-v3-lp-strategy-23a059c924b)
 - [Parsec.finance, the One-stop Customizable DeFi Analytics](https://medium.com/@tienshaoku/parsec-finance-the-one-stop-customizable-defi-analytics-e03f29a30ac0)
 - [A Failed Improvement Proposal on UXD Protocol](https://medium.com/@tienshaoku/an-improvement-scheme-on-uxd-protocol-84f7e7799740)
+</details>
 
-### Ethereum Coding
+<details>
+<summary class="toggle-title">
+Ethereum Coding
+</summary>
 
 - [Let’s Capture The Flag! Etheruem CTF Tutorial 從零開始破解智能合約漏洞！](https://medium.com/taipei-ethereum-meetup/lets-capture-the-flag-etheruem-ctf-tutorial-%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E7%A0%B4%E8%A7%A3%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84%E6%BC%8F%E6%B4%9E-8b2de7ee9864)
 - [類 Python 的合約語言 Vyper 開發入門：與 Solidity 差異、用 Truffle 部署、ERC20 賣幣合約實做](https://medium.com/taipei-ethereum-meetup/introduction-and-development-guide-to-vyper-the-python-like-smart-contract-language-9d7a94fba22c)
 - [Web3 Java 開發：用 Geth、Ganache 及 Infura 測試和 Smart Contract 互動](https://medium.com/taipei-ethereum-meetup/web3-java-%E9%96%8B%E7%99%BC-%E7%94%A8-geth-ganache-%E5%8F%8A-infura-%E6%B8%AC%E8%A9%A6%E5%92%8C-smart-contract-%E4%BA%92%E5%8B%95-b3740b4328a3)
+</details>
 
-### Book Review
+<details>
+<summary class="toggle-title">
+Book Review
+</summary>
 
 - [2024 下半年書單：社會議題、商學、人類情愛、健康](https://tienshaoku.medium.com/2024-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-%E7%A4%BE%E6%9C%83%E8%AD%B0%E9%A1%8C-%E5%95%86%E5%AD%B8-%E4%BA%BA%E9%A1%9E%E6%83%85%E6%84%9B-%E5%81%A5%E5%BA%B7-5d8299ff7067)
 - [2024 上半年書單：藝術、創意與創業、社會文化、小說、生產力、大自然](https://medium.com/@tienshaoku/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-%E8%97%9D%E8%A1%93-%E5%89%B5%E6%84%8F%E8%88%87%E5%89%B5%E6%A5%AD-%E7%A4%BE%E6%9C%83%E6%96%87%E5%8C%96-%E5%B0%8F%E8%AA%AA-%E7%94%9F%E7%94%A2%E5%8A%9B-%E5%A4%A7%E8%87%AA%E7%84%B6-7f84ca2ae3c2)
@@ -56,17 +93,27 @@
 - [2022 下半年書單： 科技、週末休息、人物傳記、多元性別與角色](https://medium.com/@tienshaoku/2022-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-285a55c3387b)
 - [2022 上半年書單：複習 2008 金融海嘯、女性故事、自我成長](https://medium.com/@tienshaoku/2022-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%9B%B8%E5%96%AE-c65e2546be46)
 - [2021 書單：時間的複利效應、有意識的習慣改變、比特幣與區塊鏈](https://medium.com/@tienshaoku/2021-%E6%9B%B8%E5%96%AE-28fc9e251848)
+</details>
 
-### Veganism
+<details>
+<summary class="toggle-title">
+Veganism
+</summary>
 
 - [一個不完美 Vegan (+Freegan) 的飲食與生活哲學／歪理分享](https://tienshaoku.medium.com/%E4%B8%80%E5%80%8B%E4%B8%8D%E5%AE%8C%E7%BE%8E-vegan-freegan-%E7%9A%84%E9%A3%B2%E9%A3%9F%E8%88%87%E7%94%9F%E6%B4%BB%E5%93%B2%E5%AD%B8-%E6%AD%AA%E7%90%86%E5%88%86%E4%BA%AB-f3fdd30bd02b)
 - [關於吃素的健康疑慮淺談，與這問題對素食者來說真的重要嗎？](https://tienshaoku.medium.com/%E9%97%9C%E6%96%BC%E5%90%83%E7%B4%A0%E7%9A%84%E5%81%A5%E5%BA%B7%E7%96%91%E6%85%AE%E6%B7%BA%E8%AB%87-%E8%88%87%E9%80%99%E5%95%8F%E9%A1%8C%E5%B0%8D-vegan-%E4%BE%86%E8%AA%AA%E7%9C%9F%E7%9A%84%E9%87%8D%E8%A6%81%E5%97%8E-78f75dbbb16b)
+</details>
+
+---
 
 ## Open Source Contribution
 
-### [Perpetual Protocol](https://perp.com/)
+<details open>
+<summary class="toggle-title">
+<a href="https://perp.com/">Perpetual Protocol</a>
+</summary>
 
-I mostly worked on smart contract development and testing, deployment, and sometimes FE of the [Exchange site](https://app.perp.com/)
+I mostly worked on smart contract development, testing, deployment, and sometimes FE of the [Exchange site](https://app.perp.com/)
 
 - Repositories
   1. [Perpetual Protocol V2 (Curie)](https://github.com/perpetual-protocol/perp-curie-contract)
@@ -80,28 +127,41 @@ I mostly worked on smart contract development and testing, deployment, and somet
   3. [Foundry](https://github.com/foundry-rs/foundry)
   4. [Chainlink](https://www.npmjs.com/package/@chainlink/contracts)
   5. [Hardhat](https://www.npmjs.com/package/hardhat)
+  </details>
 
-### [ETH Taipei website](https://ethtaipei.org/)
+<details>
+<summary class="toggle-title">
+<a href="https://ethtaipei.org/">ETH Taipei website</a>
+</summary>
 
 The website of ETH Taipei, an annual Ethereum Dev-focused Conference and a local ETH community.
 
 - Repository: [Click Me](https://github.com/ETHTaipei/ETH-Taipei-Website)
 - Built with: Next.js and Typescript
+</details>
 
-### [IMSLab website](https://www.imslab.org/)
+<details>
+<summary class="toggle-title">
+<a href="https://www.imslab.org/">IMSLab website</a>
+</summary>
 
 A responsive website (RWD) for my lab during the master program
 
 - Repository: [Click Me](https://github.com/ncku-imslab/ncku-imslab.github.io)
-- Built with: React, Tachyons(Functional CSS), Github Actions
+- Built with: React, Tachyons(Functional CSS), and Github Actions
+</details>
+
+---
 
 ## Anecdote
 
 - Half a year after hanging out in the Embassy of the R.O.C (Taiwan) in Panama, the diplomatic relationship between R.O.C and Panama ended; coincidence? 🤔
-- Got stabbed in Colombia and came back alive 🔪🩸🫡
+- Got stabbed in Colombia and came back alive 🔪🩸
 - Turned vegan the next day after watching [Cowspiracy](https://www.cowspiracy.com/) in Dec 2021 🌱
+
+---
 
 ## Get in touch
 
-- Email: tienshaoku@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/tienshaoku/)
+- Email: tienshaoku@gmail.com
