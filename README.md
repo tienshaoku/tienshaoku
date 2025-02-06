@@ -20,15 +20,6 @@ Cultural Talk
 
 <details open>
 <summary>
-CowSwap
-</summary>
-
-- [Understanding CoW AMM: A Zero-Swap-Fee, MEV-Mitigating Liquidity Source for CowSwap](https://medium.com/taipei-ethereum-meetup/understanding-cow-amm-a-zero-swap-fee-mev-mitigating-liquidity-source-for-cowswap-25f8cb1e8b78)
-- [ELI5: What Is FM-AMM, The Theory Behind CoW AMM, and How Is It MEV-Resistant?](https://medium.com/taipei-ethereum-meetup/eli5-what-is-fm-amm-the-theory-behind-cow-amm-and-how-is-it-mev-resistant-53d1960324c0)
-</details>
-
-<details>
-<summary>
 Perpetual Protocol
 </summary>
 
@@ -38,7 +29,7 @@ Perpetual Protocol
 - [Analysing merging the funding rate of a perpetual contract into x\*y = k](https://medium.com/@tienshaoku/note-1-defi-analysing-merging-the-funding-rate-of-a-perpetual-contract-into-x-y-k-90bdd301cfbf)
 </details>
 
-<details>
+<details open>
 <summary>
 Uniswap
 </summary>
@@ -52,11 +43,18 @@ Uniswap
 
 <details>
 <summary>
-General DeFi
+CowSwap
 </summary>
 
-- [Clarifying ERC-1271: Smart Contract Signature Verification](https://medium.com/taipei-ethereum-meetup/clarifications-on-erc-1271-smart-contract-signature-verification-and-signing-cd5c2fb7ac1b)
-- [EIP-4626 Inflation/ Sandwich Attack Deep Dive And How to Solve It](https://medium.com/@tienshaoku/eip-4626-inflation-sandwich-attack-deep-dive-and-how-to-solve-it-9e3e320cc3f1)
+- [Understanding CoW AMM: A Zero-Swap-Fee, MEV-Mitigating Liquidity Source for CowSwap](https://medium.com/taipei-ethereum-meetup/understanding-cow-amm-a-zero-swap-fee-mev-mitigating-liquidity-source-for-cowswap-25f8cb1e8b78)
+- [ELI5: What Is FM-AMM, The Theory Behind CoW AMM, and How Is It MEV-Resistant?](https://medium.com/taipei-ethereum-meetup/eli5-what-is-fm-amm-the-theory-behind-cow-amm-and-how-is-it-mev-resistant-53d1960324c0)
+</details>
+
+<details>
+<summary>
+DeFi
+</summary>
+
 - [Charm’s Alpha Vault, the Minimalist Uniswap v3 LP Strategy](https://medium.com/@tienshaoku/charms-alpha-vault-the-minimalist-uniswap-v3-lp-strategy-23a059c924b)
 - [Parsec.finance, the One-stop Customizable DeFi Analytics](https://medium.com/@tienshaoku/parsec-finance-the-one-stop-customizable-defi-analytics-e03f29a30ac0)
 - [A Failed Improvement Proposal on UXD Protocol](https://medium.com/@tienshaoku/an-improvement-scheme-on-uxd-protocol-84f7e7799740)
@@ -64,9 +62,11 @@ General DeFi
 
 <details>
 <summary>
-Ethereum Coding
+Ethereum
 </summary>
 
+- [Clarifying ERC-1271: Smart Contract Signature Verification](https://medium.com/taipei-ethereum-meetup/clarifications-on-erc-1271-smart-contract-signature-verification-and-signing-cd5c2fb7ac1b)
+- [EIP-4626 Inflation/ Sandwich Attack Deep Dive And How to Solve It](https://medium.com/@tienshaoku/eip-4626-inflation-sandwich-attack-deep-dive-and-how-to-solve-it-9e3e320cc3f1)
 - [Let’s Capture The Flag! Etheruem CTF Tutorial 從零開始破解智能合約漏洞！](https://medium.com/taipei-ethereum-meetup/lets-capture-the-flag-etheruem-ctf-tutorial-%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E7%A0%B4%E8%A7%A3%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84%E6%BC%8F%E6%B4%9E-8b2de7ee9864)
 - [類 Python 的合約語言 Vyper 開發入門：與 Solidity 差異、用 Truffle 部署、ERC20 賣幣合約實做](https://medium.com/taipei-ethereum-meetup/introduction-and-development-guide-to-vyper-the-python-like-smart-contract-language-9d7a94fba22c)
 - [Web3 Java 開發：用 Geth、Ganache 及 Infura 測試和 Smart Contract 互動](https://medium.com/taipei-ethereum-meetup/web3-java-%E9%96%8B%E7%99%BC-%E7%94%A8-geth-ganache-%E5%8F%8A-infura-%E6%B8%AC%E8%A9%A6%E5%92%8C-smart-contract-%E4%BA%92%E5%8B%95-b3740b4328a3)
@@ -137,7 +137,7 @@ A responsive website (RWD) for my lab during the master program
 
 ## Anecdote
 
-- Half a year after hanging out in the Embassy of the R.O.C (Taiwan) in Panama, the diplomatic relationship between R.O.C and Panama ended; coincidence? 🤔
+- Half a year after hanging out at the Embassy of the R.O.C. (Taiwan) in Panama, Panama cut ties with the R.O.C. Coincidence? 🤔
 - Got stabbed in Colombia and came back alive 🔪🩸
 - Turned vegan the next day after watching [Cowspiracy](https://www.cowspiracy.com/) in Dec 2021 🌱
 
